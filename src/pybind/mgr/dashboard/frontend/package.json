@@ -114,7 +114,7 @@
     "@applitools/eyes-cypress": "3.22.5",
     "@compodoc/compodoc": "1.1.18",
     "@cypress/browserify-preprocessor": "3.0.2",
-    "@grafana/e2e": "8.4.5",
+    "@grafana/e2e": "9.3.2",
     "@types/brace-expansion": "1.1.0",
     "@types/cypress-cucumber-preprocessor": "4.0.1",
     "@types/jest": "26.0.14",
